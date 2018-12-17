@@ -1,0 +1,16 @@
+*.pyc
+__pycache__
+fonexa_venv
+migrations
+.DS_Store
+.env
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Mysql config
+*.cnf
+
+#Database
+*.sqlite3
